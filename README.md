@@ -1,6 +1,6 @@
 # learn-cicd-typescript-starter (Notely)
 
-[![ci](https://github.com/roshanrane24/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg?event=workflow_run)](https://github.com/roshanrane24/learn-cicd-typescript-starter/actions/workflows/ci.yml)
+![ci](https://github.com/roshanrane24/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 This repo contains the typescript starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
